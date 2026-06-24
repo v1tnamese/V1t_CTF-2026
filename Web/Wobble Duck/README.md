@@ -1,4 +1,5 @@
 # Wobble Duck 
+**Author: Rawr**
 
 I have a pet , can you find it ?
 
