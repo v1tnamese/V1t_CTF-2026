@@ -20,6 +20,7 @@ Welcome to the V1t CTF 2026 repository! Here is a complete list of all the chall
 - [Nice Try](./Forensics/Nice%20Try)
 - [Polar Fragments](./Forensics/Polar%20Fragments)
 - [Vitalis Night Shift](./Forensics/Vitalis%20Night%20Shift)
+- [Big Mac](./Forensics/Big%20Mac)
 
 ## Hardware
 - [10X54](./Hardware/10X54)
