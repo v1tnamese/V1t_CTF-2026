@@ -1,0 +1,2 @@
+Rawr and I used to spend hours at a lake right in the heart of our hometown during high school. It was our favorite spot to chill and just clear our minds when the afternoon breeze rolled in after those endless school days. There is also something interesting nearby. If you take a closer look from above, you might notice that a park next to the lake has a shape that resembles a dragon. Can you find the place and figure out what I left behind at the lake?
+
