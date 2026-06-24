@@ -1,4 +1,5 @@
 # Duck Nettool 
+**Author: Rawr**
 
 Solve on local first because on remote have captcha
 On remote it will replace all `v1t{fake_flag}` with real flag
