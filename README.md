@@ -29,7 +29,6 @@ Welcome to the V1t CTF 2026 repository! Here is a complete list of all the chall
 
 ## Misc
 - [Atari 2600](./Misc/Atari%202600)
-- [Bird 101](./Misc/Bird%20101)
 - [Classless](./Misc/Classless)
 - [Dead Signal](./Misc/Dead%20Signal)
 - [Diddy License Checker](./Misc/Diddy%20License%20Checker)
