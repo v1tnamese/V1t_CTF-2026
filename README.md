@@ -5,6 +5,7 @@ Welcome to the V1t CTF 2026 repository! Here is a complete list of all the chall
 ## Crypto
 - [China Crack 101](./Crypto/China%20Crack%20101)
 - [China Crack 202](./Crypto/China%20Crack%20202)
+- [CuRvE](./Crypto/CuRvE)
 - [Hextrap](./Crypto/Hextrap)
 - [Real World](./Crypto/Real%20World)
 - [Slop Anti or Anti Slop](./Crypto/Slop%20Anti%20or%20Anti%20Slop)
@@ -21,6 +22,8 @@ Welcome to the V1t CTF 2026 repository! Here is a complete list of all the chall
 - [Nice Try](./Forensics/Nice%20Try)
 - [Polar Fragments](./Forensics/Polar%20Fragments)
 - [Vitalis Night Shift](./Forensics/Vitalis%20Night%20Shift)
+- [After Cleanup](./Forensics/After%20Cleanup)
+- [BasicQnA](./Forensics/BasicQnA)
 
 ## Hardware
 - [10X54](./Hardware/10X54)
@@ -72,3 +75,4 @@ Welcome to the V1t CTF 2026 repository! Here is a complete list of all the chall
 - [Duck Smuzzle](./Web/Duck%20Smuzzle)
 - [HVL](./Web/HVL)
 - [Wobble Duck](./Web/Wobble%20Duck)
+- [Anime Shop](./Web/Anime%20Shop)
