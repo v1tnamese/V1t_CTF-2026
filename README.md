@@ -16,20 +16,19 @@ Welcome to the V1t CTF 2026 repository! Here is a complete list of all the chall
 - [Rules](./Duck/Rules)
 
 ## Forensics
+- [Big Mac](./Forensics/Big%20Mac)
 - [Green Goblin](./Forensics/Green%20Goblin)
 - [Nice Try](./Forensics/Nice%20Try)
 - [Polar Fragments](./Forensics/Polar%20Fragments)
 - [Vitalis Night Shift](./Forensics/Vitalis%20Night%20Shift)
-- [Big Mac](./Forensics/Big%20Mac)
 
 ## Hardware
 - [10X54](./Hardware/10X54)
 - [Barely Legal Experience](./Hardware/Barely%20Legal%20Experience)
-- [S3 AES](./Hardware/S3%20AES)
+- [XTS-AES](./Hardware/XTS-AES)
 
 ## Misc
 - [Atari 2600](./Misc/Atari%202600)
-- [Bird 101](./Misc/Bird%20101)
 - [Classless](./Misc/Classless)
 - [Dead Signal](./Misc/Dead%20Signal)
 - [Diddy License Checker](./Misc/Diddy%20License%20Checker)
