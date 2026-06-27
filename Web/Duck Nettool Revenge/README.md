@@ -1,4 +1,4 @@
-# Duck Nettool 
+# Duck Nettool Revenge
 **Author: Rawr**
 
 Solve on local first because on remote have captcha
