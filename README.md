@@ -18,8 +18,8 @@ Welcome to the V1t CTF 2026 repository! Here is a complete list of all the chall
 
 ## Forensics
 - [Big Mac](./Forensics/Big%20Mac)
-- [Green Goblin](./Forensics/Green%20Goblin)
-- [Nice Try](./Forensics/Nice%20Try)
+- [Green Goblin](./Forensics/Green%20Goblin) - [Writeup](./Forensics/Green%20Goblin/Writeup-GreenGoblin.md)
+- [Nice Try](./Forensics/Nice%20Try) - [Writeup](./Forensics/Nice%20Try/Writeup-NiceTry.md)
 - [Polar Fragments](./Forensics/Polar%20Fragments)
 - [Vitalis Night Shift](./Forensics/Vitalis%20Night%20Shift)
 - [After Cleanup](./Forensics/After%20Cleanup)
